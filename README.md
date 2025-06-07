@@ -67,8 +67,7 @@ A simple and interactive 4x4 Sudoku Solver built with Python and Tkinter. This t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/4x4-sudoku-solver.git
-   cd 4x4-sudoko
+   git clone https://github.com/JoshikaPalametta/sudoko_backtracking_algo.git
    ```
 
 2. Run the program:
